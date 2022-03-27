@@ -749,7 +749,7 @@ form a{
       justify-content: center;
       align-items: center;
       flex-direction: column;
-      background: url(/images2/contact-bg.jpg);
+      background: url(../images2/contact-bg.jpg);
       background-size: cover;
 }
 .contact .content{
@@ -759,11 +759,11 @@ form a{
 .contact .content h2{
     font-size: 36px;
     font-weight: 500;
-    color: #black;
+    color: black;
 }
 .contact .content p{
     font-weight: 300;
-    color: #black;
+    color: black;
 }
 .container{
   width: 100%;
